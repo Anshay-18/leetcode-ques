@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anshay-18/leetcode-ques/tree/master/0005-longest-palindromic-substring) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anshay-18/leetcode-ques/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anshay-18/leetcode-ques/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anshay-18/leetcode-ques/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anshay-18/leetcode-ques/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
