@@ -59,4 +59,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anshay-18/leetcode-ques/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/Anshay-18/leetcode-ques/tree/master/2336-smallest-number-in-infinite-set) |
+## Design
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/Anshay-18/leetcode-ques/tree/master/2336-smallest-number-in-infinite-set) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/Anshay-18/leetcode-ques/tree/master/2336-smallest-number-in-infinite-set) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/Anshay-18/leetcode-ques/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
