@@ -39,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Anshay-18/leetcode-ques/tree/master/1207-unique-number-of-occurrences) |
 | [1288-remove-covered-intervals](https://github.com/Anshay-18/leetcode-ques/tree/master/1288-remove-covered-intervals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anshay-18/leetcode-ques/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2740-find-the-value-of-the-partition](https://github.com/Anshay-18/leetcode-ques/tree/master/2740-find-the-value-of-the-partition) |
 ## Sorting
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Anshay-18/leetcode-ques/tree/master/1288-remove-covered-intervals) |
+| [2740-find-the-value-of-the-partition](https://github.com/Anshay-18/leetcode-ques/tree/master/2740-find-the-value-of-the-partition) |
 ## Prefix Sum
 |  |
 | ------- |
