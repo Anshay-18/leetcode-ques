@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anshay-18/leetcode-ques/tree/master/0238-product-of-array-except-self) |
+| [1207-unique-number-of-occurrences](https://github.com/Anshay-18/leetcode-ques/tree/master/1207-unique-number-of-occurrences) |
 | [1288-remove-covered-intervals](https://github.com/Anshay-18/leetcode-ques/tree/master/1288-remove-covered-intervals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anshay-18/leetcode-ques/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Sorting
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1207-unique-number-of-occurrences](https://github.com/Anshay-18/leetcode-ques/tree/master/1207-unique-number-of-occurrences) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Anshay-18/leetcode-ques/tree/master/2336-smallest-number-in-infinite-set) |
 ## Design
 |  |
